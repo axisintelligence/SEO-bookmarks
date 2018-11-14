@@ -1,0 +1,1 @@
+javascript:document.location%3D %27https://developers.google.com/speed/pagespeed/insights/?url=%27 %2B window.location.hostname%3B
